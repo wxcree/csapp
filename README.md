@@ -2,7 +2,7 @@
 目前状态：
 * Datalab 	√
 * Bomb 		√
-* Attacklab 
+* Attacklab √ 
 * Bufferlab
 * Archlab1
 * Archlab2
